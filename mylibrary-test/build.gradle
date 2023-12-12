@@ -49,7 +49,7 @@ afterEvaluate {
 
                 groupId = 'https://github.com/rakesh109kumar/MyLibraryTest'
                 artifactId = 'mylibrary-test-preview'
-                version = '1.0.3'
+                version = '1.0.4'
             }
         }
     }
