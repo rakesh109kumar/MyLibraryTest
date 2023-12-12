@@ -47,7 +47,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                //groupId = ''
+                groupId = 'https://github.com/rakesh109kumar/MyLibraryTest'
                 artifactId = 'mylibary-test-preview'
                 version = '1.0'
             }
