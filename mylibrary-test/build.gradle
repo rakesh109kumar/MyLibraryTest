@@ -48,7 +48,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'https://github.com/rakesh109kumar/MyLibraryTest'
-                artifactId = 'mylibary-test-preview'
+                artifactId = 'mylibrary-test'
                 version = '1.0'
             }
         }
