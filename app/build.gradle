@@ -5,12 +5,11 @@ plugins {
 
 android {
     namespace 'com.jio.krishibazaar.myapplication'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.jio.krishibazaar.myapplication"
         minSdk 21
-        targetSdk 32
         versionCode 1
         versionName "1.0"
 

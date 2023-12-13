@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace 'com.compose.test.mylibrary_test'
-    compileSdk 34
+    compileSdk 33
 
     defaultConfig {
         minSdk 24
