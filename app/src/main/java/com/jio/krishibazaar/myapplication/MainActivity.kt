@@ -12,7 +12,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.GravityCompat
 import androidx.navigation.NavController
 import androidx.navigation.ui.*
-import com.compose.test.mylibrary_test.TestClass
 import com.jio.krishibazaar.myapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
@@ -47,7 +46,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         navView.setupWithNavController(navController)
         binding.navView.setNavigationItemSelectedListener(this)
         //setClick()
-        TestClass()
     }
 
     fun setClick() {
